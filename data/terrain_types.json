@@ -1,0 +1,24 @@
+"terrain_types": {
+    "water": {
+        "surface": {
+            "salt": false
+        },
+        
+        "ocean": {
+            "salt": true
+        },
+        
+        "lake": {
+            "salt": false
+        },
+        
+        "river": {
+            "salt": false
+        }
+    }
+
+    "land" {
+        "desert": {},
+        "meadow": {}
+    }
+}

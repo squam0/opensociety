@@ -1,0 +1,48 @@
+
+"flavor text": {
+    "__comment__": "Flavor text for non-clickable news ticker items",
+    
+    "general": [
+        "Stray cats threaten to leave %CITYNAME% if mouse population continues to decline.",
+        "%CITYNAME% News Ticker: [TODO: Think of slogan for news ticker]."
+        "Mayor %MAYORNAME% named sexiest mayor in %CITYNAME%."
+    ],
+    
+    "disaster warning": {
+        "earthquake": [
+            "Faulty terrain threatens to divide populace.",
+            "\"Phantom vibration\" epidemic has many citizens compulsively checking their phones."
+        ],
+        
+        "riot": [
+            "Hardware stores suffer severe pitchfork, torch shortage.",
+            "Sewing circle shifts focus from quilting to civil disobedience."
+        ],
+        
+        "fire": [
+            "Teenagers and young adults warned not to participate in viral \"Arson Challenge\".",
+            "Fire Eating exhibition relocated to paper warehouse.",
+            "Report: 60% of %CITYNAME% citizens forget to turn irons off before leaving houses each week."
+            "Opinion: Cows and lanterns - a match made in heaven?"
+        ],
+        
+        "whirlpool": [
+            "President of local Greek History Society warns shoreline construction may be angering Poseidon.",
+        ],
+        
+        "tornado": [
+            "\"Wizard of Oz\" watch party cancelled due to inclement weather."
+        ],
+        
+        "ufo": [
+            "Vivid, recurring dreams of being at the dentist leave citizens puzzled.",
+            "Public Service Announcement from the Aviation Authority: Aliens are not real."
+        ]
+    },
+    
+    "structure built": {
+        "park": [
+            
+        ]
+    }
+}
